@@ -2,10 +2,10 @@
 navigation: false
 ---
 
-# Nuxt Docs
+# Документація Nuxt
 
-This repository contains the documentation of Nuxt hosted on nuxt.com.
+Це сховище містить документацію Nuxt, розміщену на nuxt.com.
 
-## Contributing
+## Взяти участь
 
-You can contribute directly on GitHub for now, we are planning to open source nuxt.com repo for everyone to contribute with ease very soon.
+Наразі ви можете взяти участь у розвитку безпосередньо на GitHub, незабаром ми плануємо створити репозиторій nuxt.com з відкритим вихідним кодом, щоб усі могли з легкістю робити свої внески.
